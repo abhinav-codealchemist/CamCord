@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/abhinav-codealchemist/CamCord.svg)](http://hits.dwyl.io/abhinav-codealchemist/CamCord)
 # CamCord
 Camera cum Face Detection Application
 
